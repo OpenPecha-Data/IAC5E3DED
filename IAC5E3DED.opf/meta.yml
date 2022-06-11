@@ -1,0 +1,26 @@
+id: IAC5E3DED
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:39:54.253432'
+last_modified: '2022-06-11T13:39:54.253443'
+parser: null
+source_metadata:
+  title: Padampa Sangye
+  language: en
+  description: 'Texts by and about the famous adept Padampa Sangye (pha dam pa sangs
+    rgyas), who was born in the 11th century, visited Tibet on a number of occasions,
+    and became renowned as the founder of the Pacifying or Zhijé (zhi byed) tradition:'
+  volume:
+    fA625:
+      title: The Thirty Aspirations
+      base_file: fA625.txt
+      order: 1
+      parent: Aspiration Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
